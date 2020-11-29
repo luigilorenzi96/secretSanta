@@ -3,7 +3,7 @@ window.onload = function()
 	drawList();
 };
 
-var give = ['Gio','Rick','Rob','Sue','Kerol','Sbillo','Mati Volt','Gigi'];
+var give = ['Ema','Gio','Rick','Rob','Sue','Kerol','Sbillo','Mati Volt','Gigi'];
 var receive = give.concat();
 var peopleWrap = document.getElementById('peopleWrap');
 var people = document.getElementById('people');
